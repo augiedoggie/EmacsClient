@@ -1,0 +1,9 @@
+CMakeFiles
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+obj.*
+compile_commands.json
+EmacsClient
+.dir-locals.el
+.ccls-cache
